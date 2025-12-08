@@ -1,6 +1,6 @@
 +++
 title = "Berkeley to Hayward Bay Trail"
-date = December 7, 2025
+date = "2025-12-07"
 +++
 
 Over the course of the past few months I've been trying to cover as much of the Bay Trail as I can, doing segments one at a time. I've done most of the segments in San Francisco, from Berkeley north to Richmond and then Pinole Point, and the stretch in San Mateo County from Millbrae to Redwood Shores. I've been plotting a ride south from Berkeley to Hayward. I hoped I'd get from my house all the way to 92, and ideally to the end of the Bay Trail in Hayward. There's a big gap in the Bay Trail in Union City, and it picks back up again in Fremont, which will be a future segment.
@@ -128,6 +128,6 @@ A lot of BART is at-grade (not elevated or underground), and uses gravel ballast
 
 I gotta find a better way to track these than Strava.
 
-The total ride ended up being 36.7 miles, done with two big stops (90 minutes in Oakland, 60 in San Leandro, plenty of pictures and staring at planes and trains) from 11:30 to 6:30. I'd recommend the Martin Luther King Jr. shoreline between High Street and the airport in Oakland, the Oyster Bay Regional Shoreline in San Leandro, and the whole trail from Marina Park down the Hayward Regional Shoreline if you're prepared for gravel. Unfortunately there's not that much at the other end, so you have to drive in, do a round-trip, or take the bus. There's also not much transit access to either end, it's a bit of a ride in from BART.
+The total ride ended up being 36.7 miles, done with two big stops (90 minutes in Oakland, 60 in San Leandro, plenty of pictures and staring at planes and trains) from 11:30 to 6:30. I'd recommend the Martin Luther King Jr. shoreline between High Street and the airport in Oakland, the Oyster Bay Regional Shoreline in San Leandro, and the whole trail from Marina Park down the Hayward Regional Shoreline if you're prepared for gravel. Unfortunately there's much transit access to either end, it's a bit of a ride in from BART.
 
 It was a very scenic ride! The Bay Trail has yet to disappoint me, and I'm excited to fill out more segments. Next up...maybe Hercules to Vallejo? Stay tuned!
